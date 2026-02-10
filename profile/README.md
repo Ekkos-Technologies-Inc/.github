@@ -114,6 +114,7 @@ ekkOS gives AI assistants an **11-layer memory architecture** — from working m
 npx @ekkos/cli init
 ```
 
+[![Corporate](https://img.shields.io/badge/ekkos.ca-1a1a2e?style=for-the-badge&logo=globe&logoColor=white)](https://ekkos.ca)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ekkos)
 [![Twitter](https://img.shields.io/badge/@ekkos__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ekkos_dev)
 
