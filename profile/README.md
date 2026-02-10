@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo -->
-<img src="https://ekkos.dev/ekkos-logo.png" alt="ekkOS" width="120" />
+<img src="https://raw.githubusercontent.com/Ekkos-Technologies-Inc/.github/main/profile/ekkos-logo.png" alt="ekkOS_" width="400" />
 
 # ekkOS Technologies Inc.
 
