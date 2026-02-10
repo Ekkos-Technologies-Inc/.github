@@ -7,6 +7,7 @@
 
 ### AI Memory That Actually Learns
 
+[![Corporate](https://img.shields.io/badge/ekkos.ca-1a1a2e?style=for-the-badge&logo=globe&logoColor=white)](https://ekkos.ca)
 [![Website](https://img.shields.io/badge/ekkos.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ekkos.dev)
 [![Docs](https://img.shields.io/badge/Documentation-4A90D9?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.ekkos.dev)
 [![VS Code](https://img.shields.io/badge/VS_Code_Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=ekkos.ekkos-connect)
@@ -114,7 +115,6 @@ ekkOS gives AI assistants an **11-layer memory architecture** — from working m
 npx @ekkos/cli init
 ```
 
-[![Corporate](https://img.shields.io/badge/ekkos.ca-1a1a2e?style=for-the-badge&logo=globe&logoColor=white)](https://ekkos.ca)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ekkos)
 [![Twitter](https://img.shields.io/badge/@ekkos__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ekkos_dev)
 
